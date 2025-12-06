@@ -1,0 +1,9 @@
+Module you need :
+################################
+Numpy
+Pandas
+Seaborn
+Matplotlip
+Sklearn
+Keras
+################################
